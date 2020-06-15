@@ -8,4 +8,4 @@ concepts :
 - [x] tuples
 - [x] dictionary
 
-![Alt Text]()
+![Python](pythonlogo.jpg)
