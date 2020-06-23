@@ -5,7 +5,8 @@
 concepts :
 - [x] functions
 - [x] lists
-- [x] tuples
 - [x] dictionary
+- [x] strings
+- [x] oops
 
 ![Python](pythonlogo.jpg)
