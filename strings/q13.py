@@ -3,6 +3,8 @@ Sample String : 'abc'
 Expected Result : 'abcing'
 Sample String : 'string'
 Expected Result : 'stringly' """
+
+
 string = "abcing"
 if len(string) >= 3:
     if string.endswith("ing"):
@@ -10,3 +12,5 @@ if len(string) >= 3:
     else:
         string = string + "ing"
 print(string)
+
+# abcingly
