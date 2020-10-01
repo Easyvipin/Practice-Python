@@ -8,6 +8,9 @@ concepts :
 - [x] dictionary
 - [x] strings
 - [x] oops
+- [x] patterns
+- [x] file handling
+
 
 ![Python](pythonlogo.jpg)
 ### Contribution 
