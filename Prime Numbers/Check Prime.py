@@ -4,8 +4,8 @@
 # In[ ]:
 
 num = int(input("Enter the number\n"))
-if num > 1:
-	for i in range(2,num):
+if num > 0:
+	for i in range(1,num):
 		if (num % i) ==0:
 			print(num,"is  a prime number")
 			break
