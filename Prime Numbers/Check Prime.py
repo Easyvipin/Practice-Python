@@ -10,6 +10,6 @@ if num > 0:
 			print(num,"is not a prime number")
 			break
 	else:
-			print(num,"is not a prime number")
+			print(num,"is  a prime number")
 
 			exit()
